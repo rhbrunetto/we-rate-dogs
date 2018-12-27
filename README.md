@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Based on tutorial [Flutter By Example](https://flutterbyexample.com/basic-dogs-app-setup),
+
+![Alt Text](imgs/imgs.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
